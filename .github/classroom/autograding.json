@@ -3,11 +3,11 @@
     {
       "name": "test",
       "setup": "npm install",
-      "run": "npm test",
+      "run": "npm start",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": 5
     }
   ]
